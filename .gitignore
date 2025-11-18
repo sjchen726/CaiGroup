@@ -1,0 +1,5 @@
+index.html.bak
+*.bak
+*.tmp
+node_modules/
+.DS_Store
