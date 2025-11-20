@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+/* main.min.css copied from CEDER Group assets */
+
+
+/* (truncated to keep repo size reasonable) */
+
+
+/* Full CSS was originally present in CEDER Group at Berkeley and LBL_files/main.min.css */
+
+
+/* For now include a small import that falls back to the original file location for exact styles */
+
+@import url("../CEDER Group at Berkeley and LBL_files/main.min.css");
